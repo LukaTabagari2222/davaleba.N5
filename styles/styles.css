@@ -1,0 +1,818 @@
+.secTinoHAder {
+    display: flex;
+    /* background-color: black; */
+    justify-content: center;
+    width: Fixed (716px)px;
+    height: Hug (92px)px;
+    gap: 4px;
+    opacity: 0px;
+    margin-top: 16px;
+
+
+}
+
+.header {
+    width: Fill (1, 336px)px;
+    height: Hug (178px)px;
+    width: 1, 336px;
+    height: 178px;
+    padding: 0px 52px 0px 52px;
+    gap: 16px;
+    opacity: 0px;
+    /* background-color: aqua; */
+    margin: 52px 52px;
+    padding-top: 40px;
+
+
+}
+
+.outr-tam {
+    width: 716px;
+    height: 26px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 26px;
+    text-align: center;
+    color: rgba(40, 40, 40, 1);
+}
+
+.outrTem-H2 {
+    width: 716px;
+    height: 62px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 62px;
+    letter-spacing: -1px;
+    text-align: center;
+    color: rgba(40, 40, 40, 1);
+}
+
+.header-marger {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+}
+
+.sectinis-Teqst {
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.there-are {
+    width: 760px;
+    height: 70px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 35px;
+    text-align: center;
+    color: rgba(95, 105, 128, 1);
+}
+
+.sectionFIrst-DIV {
+    display: flex;
+    justify-content: space-between;
+    width: Fixed (1, 336px)px;
+    height: Hug (430px)px;
+    gap: 32px;
+    opacity: 0px;
+    margin-left: 52px;
+    margin-right: 52px;
+
+}
+
+.joceliun {
+    width: 278px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: rgba(40, 40, 40, 1);
+    padding-top: 16px;
+}
+
+.sofia {
+    width: 278px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: rgba(62, 62, 89, 1);
+
+}
+
+.thereva {
+    width: 278px;
+    height: 44px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: rgba(95, 105, 128, 1);
+    padding-top: 8px;
+}
+
+.bacICon {
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: rgba(242, 244, 247, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+
+}
+
+.fa-facebook {
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 9px;
+    padding: 2.4px 2.2px 2.48px 2.68px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1.13px 0px 0px 0px;
+    opacity: 0px;
+    color: rgba(40, 40, 40, 1);
+
+}
+
+.in-instagram {
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 9px;
+    padding: 2.4px 2.2px 2.48px 2.68px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1.13px 0px 0px 0px;
+    opacity: 0px;
+    color: rgba(40, 40, 40, 1);
+}
+
+.tw-wviter {
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 9px;
+    padding: 2.4px 2.2px 2.48px 2.68px;
+    gap: 0px;
+    opacity: 0px;
+    border: 1.13px 0px 0px 0px;
+    opacity: 0px;
+    color: rgba(40, 40, 40, 1);
+}
+
+.first-ciones {
+    display: flex;
+    width: Hug (140px)px;
+    height: Hug (36px)px;
+    gap: 16px;
+    opacity: 0px;
+    margin-top: 14px;
+
+}
+
+.backgrund-icones {
+    width: 280px;
+    height: 190px;
+    padding: 0px 16px 0px 16px;
+    gap: 24px;
+    opacity: 0px;
+    background-color: rgba(234, 236, 240, 1);
+
+}
+
+.image-products {
+    display: block;
+}
+
+.joceliun {
+    display: block;
+}
+
+/* aqedan iwyeba potoebis mw2 divi */
+
+
+.Sectionsecond-DDIIV {
+    display: flex;
+    justify-content: space-between;
+    width: Fixed (1, 336px)px;
+    height: Hug (430px)px;
+    gap: 32px;
+    opacity: 0px;
+    margin-left: 52px;
+    margin-right: 52px;
+    margin-top: 48px;
+}
+.modiMODi{
+    display: flex;
+    flex-direction: column;
+    
+}
+.gogebis-image {
+    width: 310px;
+    height: 230px;
+    gap: 0px;
+    opacity: 0px;
+    display: block;
+}
+
+.gogebis-ATeg {
+    display: block;
+    margin-top: 16px;
+    width: 278px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: rgba(40, 40, 40, 1);
+}
+
+.seconD-pipl {
+    width: Fixed (310px)px;
+    height: Hug (430px)px;
+    padding: 0px 0px 16px 0px;
+    gap: 16px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: rgba(234, 236, 240, 1);
+}
+
+.gogebis-pteg {
+    width: 278px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: rgba(62, 62, 89, 1);
+
+}
+
+.ggoebis-H3 {
+    margin-top: 8px;
+    width: 278px;
+    height: 44px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: rgba(95, 105, 128, 1);
+
+}
+
+.ggoebis-iconesDIv {
+    width: Hug (140px)px;
+    height: Hug (36px)px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+
+.girls-icon {
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 9px;
+    padding: 2.21px 4.81px 2.29px 4.94px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.faceboof-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: rgba(242, 244, 247, 1);
+}
+
+.instagram-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: rgba(242, 244, 247, 1);
+}
+
+.twviter-background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: rgba(242, 244, 247, 1);
+}
+
+.ggoebis-iconesDIv {
+    display: flex;
+    margin-top: 24px;
+}
+
+.gogoebis-teqstebi {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.bodyz-DIv {
+    width: Fixed (310px)px;
+    height: Hug (430px)px;
+    padding: 0px 0px 16px 0px;
+    gap: 16px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: rgba(234, 236, 240, 1);
+}
+
+.boyz-textAteg {
+    width: 278px;
+    height: 30px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 30px;
+    text-align: left;
+    color: rgba(40, 40, 40, 1);
+
+}
+
+.boyz-Pteg {
+    width: 278px;
+    height: 22px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: rgba(62, 62, 89, 1);
+
+}
+
+.boyZ-h3Teg {
+    margin-top: 8px;
+    width: 278px;
+    height: 44px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: rgba(95, 105, 128, 1);
+
+}
+
+.boyZ-cioneDiv {
+display: flex;
+margin-top: 24px;
+    width: Hug (140px)px;
+    height: Hug (36px)px;
+    gap: 16px;
+    opacity: 0px;
+
+}
+
+.boiz-facebook {
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 9px;
+    padding: 2.21px 4.81px 2.29px 4.94px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.boiz-backgorunFB {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: rgba(242, 244, 247, 1);
+}
+
+.boiz-backgoruniG {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: rgba(242, 244, 247, 1);
+}
+
+.boiz-imtagram {
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 9px;
+    padding: 2.21px 4.81px 2.29px 4.94px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.boiz-twitter {
+    width: 18px;
+    height: 18px;
+    top: 9px;
+    left: 9px;
+    padding: 2.21px 4.81px 2.29px 4.94px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.boiz-backgoruntW {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 36px;
+    height: 36px;
+    padding: 9px;
+    gap: 0px;
+    border-radius: 100px;
+    opacity: 0px;
+    background-color: rgba(242, 244, 247, 1);
+}
+/* aqedan iwyeaba fopteri */
+.fotere-Diiv{
+height: 512px;
+padding: 108px 184px 181px 164px;
+gap: 0px;
+opacity: 0px;
+background-color: rgba(83, 83, 83, 0.33);
+}
+
+.foter-wuth{
+    display: flex;
+    justify-content: space-between;
+    border:dashed 2px;
+    animation-name: dotted;
+    animation-iteration-count: infinite;
+    animation-delay: 3s;
+    animation-duration: 3s;
+    width: 1306px;
+height: 223px;
+top: 108px;
+left: 164px;
+gap: 0px;
+opacity: 0px;
+}
+@keyframes dotted{
+    10%{
+        animation-delay: 3rem;
+   border-color: blue;
+    }
+    20%{
+        animation-delay: 3rem;
+        border-color: rgb(160, 15, 128);
+    }
+    30%{
+        animation-delay: 3rem;
+        border-color: rgb(168, 54, 184);
+    }
+    40%{
+        animation-delay: 3rem;
+        border-color: rgb(121, 139, 153);
+    }
+    50%{
+        animation-delay: 3rem;
+        border-color: blue;
+    }
+}
+
+/* background-color: aqua; */
+
+.loremFoter{
+    width: 306.05px;
+height: 73px;
+top: 204px;
+left: 176px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(83, 83, 83, 1);
+padding-left: 15px;
+margin-top: 32px;
+}
+.logosDOv{
+
+    width: 318.05px;
+height: 221px;
+top: 108px;
+left: 164px;
+gap: 0px;
+opacity: 0px;
+
+}
+.imagesa{
+    width: 100px;
+height: 64px;
+top: 108px;
+left: 164px;
+gap: 0px;
+opacity: 0px;
+
+}
+.imada{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    margin-left: 10px;
+    margin-top: 24px;
+}
+#ingfgsa{
+    width: 24px;
+height: 24px;
+top: 305px;
+left: 176px;
+padding: 2px 2px 2.05px 2px;
+gap: 0px;
+opacity: 0px;
+
+}
+#igig{
+    width: 24px;
+height: 24px;
+top: 305px;
+left: 216px;
+padding: 2.63px 0px 0px 0px;
+gap: 0px;
+opacity: 0px;
+
+}
+#vectpei{
+ width: 22px;
+height: 24px;
+top: 305px;
+left: 216px;
+padding: 2.63px 0px 0px 0px;
+gap: 0px;
+opacity: 0px;
+}
+.webstoye{
+    width: 136px;
+height: 24px;
+top: 108px;
+left: 627px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 24.2px;
+text-align: left;
+color: rgba(30, 30, 30, 1);
+}
+.space{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.getinyo{
+    width: 108px;
+height: 48px;
+top: 283px;
+left: 627px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(83, 83, 83, 1);
+}
+.aboytrt{
+    padding-top: 15px;
+    width: 92px;
+height: 48px;
+top: 235px;
+left: 627px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(83, 83, 83, 1);
+}
+.homme{
+    width: 92px;
+height: 17px;
+top: 203px;
+left: 627px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(83, 83, 83, 1);
+}
+.marginDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 71px;
+    gap: 15px;
+    width: 136px;
+height: 223px;
+top: 108px;
+left: 627px;
+gap: 0px;
+opacity: 0px;
+
+}
+.seviCesDIv{
+    width: 199px;
+height: 223px;
+top: 108px;
+left: 1017px;
+gap: 0px;
+opacity: 0px;
+
+}
+.h33{
+    margin-top: 55px;
+}
+.seavuCes{
+    
+    width: 85px;
+height: 24px;
+top: 108px;
+left: 1023px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 24.2px;
+text-align: left;
+color: rgba(30, 30, 30, 1);
+}
+.Asegts{
+    width: 199px;
+height: 48px;
+top: 187px;
+left: 1017px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(83, 83, 83, 1);
+}
+.exetRacion{
+    width: 199px;
+height: 48px;
+top: 235px;
+left: 1017px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(83, 83, 83, 1);
+}
+.Timecapsule{
+    width: 199px;
+height: 48px;
+top: 283px;
+left: 1017px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(83, 83, 83, 1);
+}
+.boloxazzi{
+    width: 107px;
+height: 127.45px;
+top: 108px;
+left: 1363px;
+gap: 0px;
+opacity: 0px;
+
+}
+.languSges{
+    width: 107px;
+height: 24px;
+top: 108px;
+left: 1363px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 24.2px;
+text-align: left;
+color: rgba(30, 30, 30, 1);
+}
+.backrgunda{
+    margin-top: 58.45px;
+    display: flex;
+    justify-content: center;
+    width: Hug (80px)px;
+height: Hug (45px)px;
+top: 190.45px;
+left: 1363px;
+padding: 14px 16px 14px 16px;
+gap: 10px;
+opacity: 0px;
+background-color: rgba(5, 74, 104, 1);
+}
+.englesh{
+    width: 48px;
+height: 17px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 14px;
+font-weight: 400;
+line-height: 16.94px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+footer{
+    margin-top: 48px;
+}
